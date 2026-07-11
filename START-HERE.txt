@@ -1,0 +1,26 @@
+MARION HARDING FOOTBALL — GITHUB STARTER
+
+Upload the CONTENTS of this folder to the ROOT of your empty GitHub repository.
+
+The repository should look exactly like this:
+
+index.html
+assets/
+  style.css
+  main.js
+  logo.png
+  hero-poster.jpg
+  culture-playbook-full.png
+  homepage-hero-loop.mp4
+
+Do not upload the ZIP file itself.
+Do not rename the files.
+Do not move the files out of the assets folder.
+
+After uploading:
+1. Commit the files to the main branch.
+2. Open Settings.
+3. Open Pages.
+4. Under Source, choose Deploy from a branch.
+5. Choose main and /(root).
+6. Click Save.
